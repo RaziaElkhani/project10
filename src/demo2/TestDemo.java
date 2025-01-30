@@ -4,6 +4,7 @@ public class TestDemo {
 public static void main(String[] args) {
 	divide(20, 34);
 	divide(3,5);
+	divide(13,44);
 	
 }	
 	
