@@ -2,9 +2,9 @@ package demo2;
 
 public class TestDemo {
 public static void main(String[] args) {
-	divide(20, 34);
-	divide(3,5);
-	divide(13,44);
+	divide(20, 2);
+	divide(30,5);
+	divide(30,3);
 	
 }	
 	
