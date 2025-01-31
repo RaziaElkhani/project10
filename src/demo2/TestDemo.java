@@ -12,6 +12,16 @@ public static void main(String[] args) {
 public static void divide(int a,int b) {
 	System.out.println(a/b);
 }	
+public static int getResult(int a,int b)	{
+	int result =0;
+if (a >0){
+	System.out.println("number is a positive number");
+}else {
+	System.out.println("number is a negative number");
+}
+
+	return result;
+}
 
 }	
 
