@@ -6,6 +6,8 @@ public static void main(String[] args) {
 	divide(30,5);
 	divide(30,3);
 	divide(10,2);
+	getResult(10,10);
+	getResult(0,0);
 	
 }	
 	
